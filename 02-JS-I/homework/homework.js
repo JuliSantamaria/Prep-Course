@@ -279,7 +279,7 @@ function esVocal(letra){
       }
       var long = letra.length;
       if (long > 1 || letra != 'a' || letra != 'e' || letra != 'i' || letra != 'o' || letra != 'u'){
-      return "Dato incorrecto";
+       return "Dato incorrecto";
       }
 
       
